@@ -10,23 +10,23 @@ The project focuses on transforming transactional sales data into actionable bus
 
 ### Executive Sales Overview
 
-![Sales Trends Dashboard](screenshots/sales-trends.png)
+![Sales Trends Dashboard](Report%20Screenshots/sales-overview.png)
 
 ### Product Performance Analysis
 
-![Product Performance Dashboard](screenshots/product-performance.png)
+![Product Performance Dashboard](Report%20Screenshots/top-bottom-5-products.png)
 
 ### Period Comparison
 
-![Period Comparison Dashboard](screenshots/period-comparison.png)
+![Period Comparison Dashboard](Report%20Screenshots/sales-profit-unitssold-by-datewindow.png)
 
 ### Transaction-Level Analysis
 
-![Transaction Analysis](screenshots/transaction-analysis.png)
+![Transaction Analysis](Report%20Screenshots/transaction-level-analysis.png)
 
 ### Data Model
 
-![Power BI Data Model](screenshots/data-model.png)
+![Power BI Data Model](Report%20Screenshots/data-model.png)
 
 ---
 
