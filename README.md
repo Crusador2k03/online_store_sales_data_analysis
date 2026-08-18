@@ -266,32 +266,6 @@ Some of the major observations from the analysis include:
 
 ---
 
-## Repository Structure
-
-```text
-Retail-Sales-PowerBI/
-│
-├── README.md
-│
-├── PowerBI/
-│   └── Retail_Sales_Analysis.pbix
-│
-├── Data/
-│   ├── fact_table.csv
-│   ├── customers.csv
-│   ├── products.csv
-│   └── promotions.csv
-│
-└── screenshots/
-    ├── sales-trends.png
-    ├── product-performance.png
-    ├── period-comparison.png
-    ├── transaction-analysis.png
-    └── data-model.png
-```
-
----
-
 ## How to Use
 
 1. Download or clone this repository.
